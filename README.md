@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bramdecoster
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Blazor and Nvidia deepstream
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
